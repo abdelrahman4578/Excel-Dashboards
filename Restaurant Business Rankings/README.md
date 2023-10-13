@@ -1,6 +1,6 @@
 # Restaurant Business Rankings 2020 Dashboard
 
-![Restaurant Business Rankings 2020 Dashboard](Restaurant%20Business%20Rankings/Capture.PNG)
+![Restaurant Business Rankings 2020 Dashboard](https://github.com/abdelrahman4578/Excel-Dashboards-/blob/a5d50f6ea34d7fb87c90e166e5ddada270a40988/Restaurant%20Business%20Rankings/Capture.PNG)
 
 ## Overview
 
