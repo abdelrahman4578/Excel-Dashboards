@@ -1,6 +1,6 @@
 # eCommerce Data Analysis Dashboard
 
-![Dashboard Image]([Ecommerce Data Analysis Dashboard/Dashboard image.PNG](https://github.com/abdelrahman4578/Excel-Dashboards/blob/c2ff4fa38fbb58c1b45372c96328f98d477ba578/Ecommerce%20Data%20Analysis%20Dashboard/Dashboard%20image.PNG))
+![Dashboard Image]([Ecommerce Data Analysis Dashboard/Dashboard image.PNG])
 
 ## Overview
 
