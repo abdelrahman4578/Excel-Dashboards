@@ -1,4 +1,4 @@
-# eCommerce Data Analysis Dashboard
+# Ecommerce Data Analysis Dashboard
 
 ![Dashboard Image](Dashboard%20image.PNG)
 
