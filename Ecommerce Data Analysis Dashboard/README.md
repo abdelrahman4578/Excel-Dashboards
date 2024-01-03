@@ -1,6 +1,6 @@
 # eCommerce Data Analysis Dashboard
 
-![Dashboard Image](Dashboard image.PNG)
+![Dashboard Image](Dashboard%20image.PNG)
 
 ## Overview
 
