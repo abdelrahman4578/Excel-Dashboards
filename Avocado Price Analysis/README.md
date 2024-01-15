@@ -1,5 +1,5 @@
 # Avocado Sales Analysis Dashboard
-
+![Dashboard Screenshot](Avocado Dashboard.PNG)
 ## Overview
 
 The Avocado Sales Analysis Dashboard provides a comprehensive view of avocado sales trends, pricing dynamics, and consumer preferences based on a dataset sourced from Kaggle. The analysis is conducted using Excel, involving data cleaning, and utilizing pivot tables for in-depth insights. Here's a summary of the key findings:
