@@ -1,4 +1,5 @@
 # HR Analytics Dashboard Insights
+![Dashboard Screenshot](Dashboard%20Image.PNG)
 1. **Total Employees & Active Employees**:
    - The organization currently has **1233 active employees** out of a total of **1470**. This provides an overview of the company's size and workforce.
 
