@@ -1,5 +1,5 @@
 # Road Accident Analysis Dashboard
-
+![Dashboard Image](Dashboard%20image.PNG)
 Welcome to the **Road Accident Analysis Dashboard** project! This dashboard provides insights into road accidents based on data collected over multiple years. Below are key findings and visualizations:
 
 ## Insights:
